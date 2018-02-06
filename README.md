@@ -9,6 +9,11 @@ This tool was created in Unity3D to allow for the fast prototyping of visual ide
 This experiement came to my mind as I got hired to work on an advertisement project - as a game developer, using Unity to create an "art tool" based on the brief requirements for the designers to play with seemed like fun to try out. <br> <br>
 Feel free to use it and edit it as you feel it!
 
+#### Features
+- Play with the number of generated drops
+- Move around the scenery and choose a point of view 
+- Choose a target resolution and render the view as an image file
+
 ## Example outputs : 
 
 ![yukiko_drops](https://i.imgur.com/oDrhwdb.png)
