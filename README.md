@@ -5,7 +5,7 @@ http://y-u-k-i-k-o.com  / http://alpharats.com <br> <br>
 
 :sweat_drops: <br> <br> 
 
-This tool was created in Unity3D to allow for the fast prototyping of visual ideas. <br>
+This tool was created in Unity3D to allow fast prototyping of visual ideas. <br>
 This experiement came to my mind as I got hired to work on an advertisement project - as a game developer, using Unity to create an "art tool" based on the brief requirements for the designers to play with seemed like fun to try out. <br> <br>
 Feel free to use it and edit it as you feel it!
 
