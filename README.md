@@ -21,7 +21,7 @@ Feel free to use it and edit it as you feel it!
 
 ### Screen :
 
-![yukiko_drops2](https://imgur.com/LJFomQz)
+![yukiko_drops3](https://imgur.com/LJFomQz)
 
 ## Notes :
 
